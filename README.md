@@ -1,4 +1,4 @@
-# Challenge 10; Employee Management System
+Employee Management System
 
   ## Table of Contents
 
